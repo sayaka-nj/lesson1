@@ -1,2 +1,0 @@
-git-lesson;
-git-Edit;
